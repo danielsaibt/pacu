@@ -1,6 +1,6 @@
 awscli
 botocore
-pysocks==1.6.8
+pysocks==1.7.1
 s3transfer==0.1.13
 flake8==3.5.0
 pytz==2018.5
