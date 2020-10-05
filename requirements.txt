@@ -2,7 +2,7 @@ awscli
 botocore
 pysocks==1.6.8
 s3transfer==0.1.13
-flake8==3.5.0
+flake8==3.8.4
 pytz==2018.5
 requests==2.20.0
 urllib3==1.22
